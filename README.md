@@ -58,12 +58,3 @@ It uses the **Kaggle Credit Card Fraud Detection dataset** and supports an **int
 * Deploy dashboard on **cloud platforms** (AWS/GCP/Heroku)
 * Integrate with **blockchain-based security** for transaction logging
 
----
-
-
-  📧 [your.email@example.com](mailto:your.email@example.com)
-  🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
-
----
-
-### ⭐ If you like this project, don't forget to **star the repo** on GitHub!
